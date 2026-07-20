@@ -1,3 +1,4 @@
+<img src="./1720819219944.jfif" alt="Alexandre Pereira — Tecnologia, Educação e Software" width="100%">
 # Alexandre Pereira
 
 ### Professor de Tecnologia e Desenvolvedor de Software
