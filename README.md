@@ -6,6 +6,98 @@
 Atuo na interseção entre educação, programação e inovação, desenvolvendo aplicações, protótipos digitais e experiências de aprendizagem baseadas em projetos.
 
 Minha atuação envolve desenvolvimento de sistemas, inteligência artificial, tecnologias web, banco de dados e orientação de projetos educacionais e empreendedores.
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 UserFlow</h3>
+      <p>
+        Sistema responsivo para cadastro e gerenciamento de usuários,
+        com operações CRUD, pesquisa, filtros e exportação CSV.
+      </p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+        <code>LocalStorage</code>
+      </p>
+      <a href="https://github.com/alepereirax/cadastro-de-usuarios">
+        Ver projeto →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 AnimeVerse</h3>
+      <p>
+        Portfólio interativo de animes com catálogo dinâmico,
+        pesquisa, filtros e apresentação detalhada dos títulos.
+      </p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+        <code>DOM</code>
+      </p>
+      <a href="https://github.com/alepereirax/Pagina-de-animes">
+        Ver projeto →
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♈ Cavaleiros do Zodíaco Web</h3>
+      <p>
+        Aplicação interativa que apresenta os 12 Cavaleiros de Ouro
+        utilizando seleção aleatória e atualização dinâmica da interface.
+      </p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+        <code>Responsividade</code>
+      </p>
+      <a href="https://github.com/alepereirax/P-gina-Web---Cavaleiros-do-Zod-aco">
+        Ver projeto →
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🅱️ Bootstrap 5 — Projetos</h3>
+      <p>
+        Hub navegável com exercícios e interfaces desenvolvidos
+        durante uma trilha prática de Bootstrap 5.
+      </p>
+      <p>
+        <code>Bootstrap</code>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>Design responsivo</code>
+      </p>
+      <a href="https://github.com/alepereirax/curso_bootstrap_5">
+        Ver projeto →
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>☕ Fundamentos de POO com Java</h3>
+      <p>
+        Projeto didático sobre classes, objetos, encapsulamento,
+        construtores, herança e validações básicas em Java.
+      </p>
+      <p>
+        <code>Java</code>
+        <code>POO</code>
+        <code>Encapsulamento</code>
+        <code>Herança</code>
+      </p>
+      <a href="https://github.com/alepereirax/Poo---aula-1.1">
+        Ver projeto →
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Áreas de atuação
 
