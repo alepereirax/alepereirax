@@ -135,6 +135,36 @@ Minha atuação envolve desenvolvimento de sistemas, inteligência artificial, t
 
 Criar soluções tecnológicas que unam desenvolvimento de software, educação e impacto prático.
 
+## Contato
+
+<p>
+  Entre em contato para conversar sobre desenvolvimento de software,
+  tecnologia educacional, projetos e oportunidades de colaboração.
+</p>
+
+<p>
+  <a href="mailto:apereira865@gmail.com">
+    <img
+      src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Enviar e-mail"
+    >
+  </a>
+
+  <a href="https://www.linkedin.com/in/alexandre-pereira-1b88b07b">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Perfil de Alexandre Pereira no LinkedIn"
+    >
+  </a>
+
+  <a href="https://github.com/alepereirax">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Perfil de Alexandre Pereira no GitHub"
+    >
+  </a>
+</p>
+
 <!--
 **alepereirax/alepereirax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
